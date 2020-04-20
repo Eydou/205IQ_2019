@@ -44,7 +44,7 @@ func main() {
 			fmt.Println(err, nb)
 			os.Exit(84)
 		}
-		if nb <= 0 || nb > 200 {
+		if nb < 0 || nb > 200 {
 			os.Exit(84)
 		}
 		numbers = append(numbers, nb)
