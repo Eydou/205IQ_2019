@@ -15,6 +15,8 @@ Gaussian distributions
 
 100% completed
 
+Bonus : exemple : ./graphic.sh 100 50
+
 ## Authors
 
  **[Edouard Touch](https://github.com/Eydou)** - **[Alexis Lopes](https://github.com/LopesAlexis)**
