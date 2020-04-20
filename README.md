@@ -11,11 +11,17 @@
 
 Gaussian distributions
 
-## Test and bonus
+## Test
 
 100% completed
 
-Bonus : exemple : ./graphic.sh 100 50
+## Bonus
+
+./graphic [IQM] [IQ]
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Eydou/205IQ_2019/blob/master/bonus/205IQ.png">
+</p>
 
 ## Authors
 
